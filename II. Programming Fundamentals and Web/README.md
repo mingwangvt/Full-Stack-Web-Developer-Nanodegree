@@ -30,7 +30,7 @@
 	
 	- documentation
 	
-	- __init__/__dict__/__name__/__bases__/__doc__/__module__/
+	- \_\_init\_\_/\_\_dict\_\_/\_\_name\_\_/\_\_bases\_\_/\_\_doc\_\_/\_\_module\_\_
 	
 	- inheritance / method overriding
 
