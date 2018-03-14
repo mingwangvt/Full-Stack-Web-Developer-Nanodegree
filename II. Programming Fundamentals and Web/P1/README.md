@@ -1,4 +1,5 @@
 # Programming Fundamentals -- Notes
+**Evironment: Python IDLE**
 
 ### a.MiniProject
   
