@@ -18,7 +18,7 @@
 
   - Absolute Path
 
-Absolute path is written in relation to the computer's root directory. `/Users/cameron/Documents/file.txt`
+Absolute path is written in relation to the computer's root directory. `/Users/cameron/Documents/file.txt`.
 
     - Local Paths (local files)
       - "/Users/cameron/Documents/file.txt". `Users` is inside the root directory, represented by first `/`. rest directories are separated by `//`
