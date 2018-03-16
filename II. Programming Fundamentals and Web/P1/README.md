@@ -1,4 +1,7 @@
-# Programming Fundamentals -- Notes
+# Programming Fundamentals
+
+**Personal Notes for "Full Stack Web Developer Nanodegree" on Udacity [Part 1]**
+
 [**Evironment: Python IDLE**](https://www.python.org/downloads/)
 
 ### a.MiniProject

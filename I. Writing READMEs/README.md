@@ -1,4 +1,6 @@
-# Writing READMEs -- Notes
+# Writing READMEs
+
+**Personal Notes for "Writing READMEs" on Udacity**
 
 ### 1. What information is being communicated?
 
