@@ -49,3 +49,5 @@ Relative path from `sciences.html` to `relativity.html`:
   - a space between `a` and `href`
   - no space around `=`
   - no space between `href` and `>`
+
+*_Lesson 12 HTML syntax -- 18 Add an Image_*
