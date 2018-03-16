@@ -39,3 +39,13 @@ http://labs.udacity.com/science/physics/relativity.html
 Relative path from `sciences.html` to `relativity.html`:
 
 `<a href="physics/relativity.html">Einstein's Special Relativity</a>`
+
+#### Constructing Links
+
+```
+<a href="https://www.udacity.com">Udacity</a>
+```
+- format:
+  - a space between `a` and `href`
+  - no space around `=`
+  - no space between `href` and `>`
