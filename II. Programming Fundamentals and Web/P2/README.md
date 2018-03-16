@@ -21,7 +21,7 @@
 Absolute path is written in relation to the computer's root directory. `/Users/cameron/Documents/file.txt`.
   
 - Local Paths (local files)
-  - "/Users/cameron/Documents/file.txt". `Users` is inside the root directory, represented by first `/`. rest directories are separated by `//`
+  - "/Users/cameron/Documents/file.txt". `Users` is inside the root directory, represented by first `/`. rest directories are separated by `/`
   - Local Path can only work for your computer. If you want other people to access, then you need external path
 - External Paths (External files)
   - The computer responsible for giving you a website's files is called a **server**
