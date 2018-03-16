@@ -31,11 +31,11 @@ Absolute path is written in relation to the computer's root directory. `/Users/c
 
 How to find a path to a file from a directory that is not the root directory
 
-''' 
+```
 http://labs.udacity.com/science/sciences.html
 http://labs.udacity.com/science/physics/relativity.html
+```
 
-'''
 Relative path from `sciences.html` to `relativity.html`:
 
-'<a href="physics/relativity.html">Einstein's Special Relativity</a>'
+`<a href="physics/relativity.html">Einstein's Special Relativity</a>`
