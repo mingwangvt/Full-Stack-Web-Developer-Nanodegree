@@ -4,7 +4,7 @@
 
 ### a.HTML Syntax
   
-#### environment
+#### Environment
   - rich text(formatted)
   - plain text(ASCII chars)
   - IDE(Integrated Development Environment) Xcode/visual studio
