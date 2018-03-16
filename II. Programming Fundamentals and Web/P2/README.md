@@ -4,7 +4,7 @@
 
 ### a.HTML Syntax
   
-- environment
+#### environment
   - rich text(formatted)
   - plain text(ASCII chars)
   - IDE(Integrated Development Environment) Xcode/visual studio
@@ -12,22 +12,22 @@
   - ctr+R(win)/command+R(mac) refresh browser
 
 
-- [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+#### [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-- Paths
+#### Paths
 
-  - Absolute Path
-
+##### _Absolute Path_
+  
 Absolute path is written in relation to the computer's root directory. `/Users/cameron/Documents/file.txt`.
-
-    - Local Paths (local files)
-      - "/Users/cameron/Documents/file.txt". `Users` is inside the root directory, represented by first `/`. rest directories are separated by `//`
-      - Local Path can only work for your computer. If you want other people to access, then you need external path
-    - External Paths (External files)
-      - The computer responsible for giving you a website's files is called a **server**
-      - Every website is just a server with an external address, called **URL**.**clients**
-      - **Protocols** for serving files: HTTP, HTTPS, etc. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
-  - Relative Paths
+  
+- Local Paths (local files)
+  - "/Users/cameron/Documents/file.txt". `Users` is inside the root directory, represented by first `/`. rest directories are separated by `//`
+  - Local Path can only work for your computer. If you want other people to access, then you need external path
+- External Paths (External files)
+  - The computer responsible for giving you a website's files is called a **server**
+  - Every website is just a server with an external address, called **URL**.**clients**
+  - **Protocols** for serving files: HTTP, HTTPS, etc. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+##### _Relative Paths_
 
 How to find a path to a file from a directory that is not the root directory
 
