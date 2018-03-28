@@ -52,6 +52,10 @@ Relative path from `sciences.html` to `relativity.html`:
 
 #### image element
 
+```
 <img src="http://udacity.github.io/fend/images/udacity.png" alt="Udacity logo">
+```
 
 display in the same line as the rest of the text
+
+**12 HTML Syntax -- 19**
