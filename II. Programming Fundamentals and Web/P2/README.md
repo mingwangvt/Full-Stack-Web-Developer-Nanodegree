@@ -50,4 +50,8 @@ Relative path from `sciences.html` to `relativity.html`:
   - no space around `=`
   - no space between `href` and `>`
 
-*_Lesson 12 HTML syntax -- 18 Add an Image_*
+#### image element
+
+<img src="http://udacity.github.io/fend/images/udacity.png" alt="Udacity logo">
+
+display in the same line as the rest of the text
