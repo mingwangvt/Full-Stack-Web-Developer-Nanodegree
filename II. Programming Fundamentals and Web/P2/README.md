@@ -58,4 +58,25 @@ Relative path from `sciences.html` to `relativity.html`:
 
 display in the same line as the rest of the text
 
-**12 HTML Syntax -- 19**
+#### figure and caption
+
+Add caption for figure
+
+```
+  <!--solution 1-->
+  <img src="redwoods_state_park.jpg" alt="redwoods_state_park.jpg">
+  <p>
+  	Stout Memorial Grove in Jedediah Smith Redwoods State Park in 2011 by Chmee2 (Own work) GFDL or CC BY-SA 3.0, via Wikimedia Commons - <a href="https://commons.wikimedia.org/wiki/File%3AStout_Memorial_Grove_in_Jedediah_Smith_Redwoods_State_Park_in_2011_(22).JPG">Source</a>
+  </p>
+  
+  <!--solution 2-->
+  <figure>
+  	<img src="redwoods_state_park.jpg" alt="redwoods_state_park.jpg">
+  	<figcaption>
+  		Stout Memorial Grove in Jedediah Smith Redwoods State Park in 2011 by Chmee2 (Own work) GFDL or CC BY-SA 3.0, via Wikimedia Commons - <a href="https://commons.wikimedia.org/wiki/File%3AStout_Memorial_Grove_in_Jedediah_Smith_Redwoods_State_Park_in_2011_(22).JPG">Source</a>
+  		<!--no p tag made figure and caption close to each other; adding p tag gave more space around caption-->
+  	</figcaption>
+  </figure>
+```
+
+**12 HTML syntax - 20**
