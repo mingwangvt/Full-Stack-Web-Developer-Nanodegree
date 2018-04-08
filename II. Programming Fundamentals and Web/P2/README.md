@@ -79,4 +79,47 @@ Add caption for figure
   </figure>
 ```
 
-**12 HTML syntax - 20**
+#### forms
+
+`<form action="" method="">` tag -- parent element; `action` and `method` tell the form where and how to send the form data.
+  
+`<input>` tag:
+
+- `<input type="text">`
+- `<input type="textarea">` can use it to create a multi-line text input box
+- `<input type="checkbox">`
+- `<input type="radio">`
+- `<input type="date">`
+
+`<label for="name">What is your name?</lable> <input type="text" id="name">` tag -- `for` and `id` are both "name"
+
+`<button></button>`
+
+- `<button>I am just a button</button>`
+- `<button type="submit">I am a submit button</button>`
+- `<button type="reset">I am a reset button</button>`
+- `<button type="button">I am a button with an image<img src="" alt=""></button>`
+
+#### HTML structure
+
+```
+<!DOCTYPE html>      --- rending mode
+<html>
+  <head>             --- general information and metadata about the page  <meta> <link>
+    Meta information goes here!
+  </head>
+  <body>
+    content goes here
+  </body>
+</html>
+```
+
+`<head>` :
+- title `<title></title>`
+- css file  `<link rel="stylesheet" type="text/css" href="style.css">`
+- js file `<script src="a.js"></script>`
+- charset/test's encoding `<meta charset="utf-8">`
+- keyword,author,description `<meta name="description" content="...">`
+- "..."
+
+**12 HTML syntax - 23**
