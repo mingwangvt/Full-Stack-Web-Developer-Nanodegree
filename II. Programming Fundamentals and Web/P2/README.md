@@ -3,7 +3,7 @@
 **Personal Notes for "Full Stack Web Developer Nanodegree" on Udacity [Part 2]**
 
 ### a.HTML Syntax
-  
+
 #### Environment
   - rich text(formatted)
   - plain text(ASCII chars)
@@ -17,9 +17,9 @@
 #### Paths
 
 ##### _Absolute Path_
-  
+
 Absolute path is written in relation to the computer's root directory. `/Users/cameron/Documents/file.txt`.
-  
+
 - Local Paths (local files)
   - "/Users/cameron/Documents/file.txt". `Users` is inside the root directory, represented by first `/`. rest directories are separated by `/`
   - Local Path can only work for your computer. If you want other people to access, then you need external path
@@ -68,7 +68,7 @@ Add caption for figure
   <p>
   	Stout Memorial Grove in Jedediah Smith Redwoods State Park in 2011 by Chmee2 (Own work) GFDL or CC BY-SA 3.0, via Wikimedia Commons - <a href="https://commons.wikimedia.org/wiki/File%3AStout_Memorial_Grove_in_Jedediah_Smith_Redwoods_State_Park_in_2011_(22).JPG">Source</a>
   </p>
-  
+
   <!--solution 2-->
   <figure>
   	<img src="redwoods_state_park.jpg" alt="redwoods_state_park.jpg">
@@ -82,7 +82,7 @@ Add caption for figure
 #### forms
 
 `<form action="" method="">` tag -- parent element; `action` and `method` tell the form where and how to send the form data.
-  
+
 `<input>` tag:
 
 - `<input type="text">`
@@ -122,4 +122,65 @@ Add caption for figure
 - keyword,author,description `<meta name="description" content="...">`
 - "..."
 
+---
+### b.CSS Syntax
+
+#### Comments
+* CSS comments: /* CSS comments */
+* HTML comments: <!--HTML comments-->
+
+#### Attributes and Selector
+can only have one **id**, but multiple **class** Fundamentals
+CSS reference:
+* https://css-tricks.com/almanac/
+* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+#### Developer Tools
+Chrome DevTools: https://developers.google.com/web/tools/chrome-devtools/
+
+#### CSS Units
+absolute vs. relative
+
+#### CSS Color
+* RGB 0-255 for R,G,B;
+* Hexadecimal 00-FF for R,G,B. (00=0; FF=255)
+open "inspect" in chrome, click on color square to display color picker
+
+#### Border
+![boder](/assets/boder.jpg)
+
+#### CSS stylesheet
+
+```CSS
+<link href="path-to-stylesheet/stylesheet.css" rel="stylesheet">
+```
+type inside the `<head>` of HTML
+`href` specifies the **path** to the linked resource, `rel` names the **relationship** between resource and your document.
+
+### c. Sizing
+#### box model
+![box model](/assets/box%20model.jpg)
+* box-sizing : content-box;
+size = width + padding + boder
+* box-sizing : border-box;
+width = content-width + padding + boder
+margin is outside.
+
+#### Inline Boxes
+<p>inline element cannot set height and width. It is content-based.
+
+margin and padding can only work on horizontally, not vertically.</p>
+
+#### Semantic Elements
+```
+<header></header>
+<nav></nav>
+<section></section>
+<article></article>
+```
+[semantic tags reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+### d. Position
+#### box model
+------
 **12 HTML syntax - 23**

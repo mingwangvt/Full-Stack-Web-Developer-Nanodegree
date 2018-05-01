@@ -1,6 +1,6 @@
 # Full-Stack-Web-Developer-Nanodegree
 
-**Personal Notes for "Full Stack Web Developer Nanodegree" on Udacity** 
+**Personal Notes for "Full Stack Web Developer Nanodegree" on Udacity**
 
 [DropDown Format](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
