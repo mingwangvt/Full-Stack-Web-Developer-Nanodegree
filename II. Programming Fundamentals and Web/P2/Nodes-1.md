@@ -179,8 +179,3 @@ margin and padding can only work on horizontally, not vertically.</p>
 <article></article>
 ```
 [semantic tags reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-
-### d. Position
-#### box model
-------
-**12 HTML syntax - 23**
