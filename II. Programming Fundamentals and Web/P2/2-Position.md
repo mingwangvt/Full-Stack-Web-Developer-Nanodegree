@@ -66,6 +66,6 @@ font defines a _text-top_, _text-bottom_, _baseline_. These are used to calculat
   - justify` keep left and right edges nicely alighed (rarely used online).
   - `left`, `right`, `center`.
 * `vertical-aligh` for vertical alignment.
+  - `vertical-align: text-top`,`vertical-align: text-bottom`, `vertical-align: middle`.
 
-------
-15 Position - 15 Inline Formating
+> Text inside the inline-block will affect the baseline of the parent. Use `vertical-align: top` to align `div`s.
