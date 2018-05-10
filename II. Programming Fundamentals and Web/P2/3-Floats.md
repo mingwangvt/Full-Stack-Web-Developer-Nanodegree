@@ -19,5 +19,9 @@ DOM is nutable(changeable). CSS can also mutate the DOM using something called a
 
 ![pseudo elements](/assets/pseudo%20elements.jpg)
 
+> `.child:after {content: 'Pseudo-element';}`
+
+<p>The pseudo-element is created with `:after` inside the CSS on the element that I want to mutate. Another option would be `before`.`:after` is rendered as a child of `.child` because it shares the background color of `.child` and is rendered inside the child's border. `:after` is inside the child. Without `content`, pseudo-element disappears.</p>
+
 -----------
 **16 floats- clearing**
