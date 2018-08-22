@@ -2,7 +2,7 @@
 
 **Personal Notes for "Full Stack Web Developer Nanodegree" on Udacity**
 
-[DropDown Format](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+[MarkDown Format](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 ## I.   Writing READMEs
 
